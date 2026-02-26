@@ -1,4 +1,4 @@
-02 — Fizikten Biyolojiye Geçiş Mekanizması
+
 🔷 1. GEÇİŞ NEDEN GEREKLİYDİ?
 Zanistarast bilimine göre fizik boyut:
 enerji üretir
