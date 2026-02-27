@@ -1,3 +1,4 @@
+Ekosistemsel Stabilizasyon Motoru
 Giriş
 Ekosistemsel Stabilizasyon Motoru, Newroza Kawa uygarlığının dengeyi koruma mekanizmasının merkezidir.
 Bu modelin amacı güç üretmek değil; varlık katmanları arasındaki dengeyi korumaktır.
