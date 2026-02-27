@@ -1,3 +1,4 @@
+Müdahale Protokolleri
 Giriş
 Uygarlık stabilizasyon modeli yalnızca riskleri tanımlamakla kalmaz; sistem dengesi bozulduğunda hangi sırayla müdahale edileceğini de belirler.
 Rasterast yaklaşımında müdahale:
