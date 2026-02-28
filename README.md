@@ -42,7 +42,9 @@ Unified Scientific Framework for:
 - Unified Field Integration
 
 ---
-
+- **Research Index:** research/00_RESEARCH_INDEX.md  
+- **Scientific Navigation:** NAVIGATION.md  
+- **Citations:** citations/00_CITATION_STYLE.md
 ## 🧠 SYSTEM STATUS
 
 ACTIVE MODULES:
