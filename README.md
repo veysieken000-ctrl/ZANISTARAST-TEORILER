@@ -1,3 +1,11 @@
+## System Diagrams
+
+![System Map](diagrams/system-map.png)
+
+![Time Theory Flow](diagrams/time-theory-flow.png)
+
+![Master Architecture](diagrams/master-architecture.png)
+
 > SYSTEM STATE: ACTIVE RESEARCH FRAMEWORK
 ## SYSTEM MAP
 DIMENSION
