@@ -1,3 +1,67 @@
+> SYSTEM STATE: ACTIVE RESEARCH FRAMEWORK
+## SYSTEM MAP
+DIMENSION
+   ↓
+GEOLOGY
+   ↓
+BIOLOGY
+   ↓
+MIND
+   ↓
+ETHICS
+   ↓
+CIVILIZATION
+   ↓
+TIME
+   ↓
+UNIFIED FIELD
+
+ZANISTARAST SYSTEM CORE
+
+Unified Scientific Framework for:
+
+- Dimensional Evolution
+- Mind Transition
+- Civilization Stabilization
+- Unified Field Integration
+
+---
+
+## 🧠 SYSTEM STATUS
+
+ACTIVE MODULES:
+
+✔ Dimensional Theory
+✔ Geological Evolution
+✔ Biological Phase
+✔ Mind Dimension
+✔ Collapse Reset
+✔ Moral Human Theory
+✔ Civilization Model
+✔ Time Theory
+✔ Unified Field Framework
+
+---
+
+## ⚡ CORE EXECUTION FLOW
+
+DIMENSION → LIFE → MIND → CIVILIZATION → STABILIZATION
+
+---
+
+## 📡 SYSTEM ARCHITECTURE
+
+THEORY LAYER
+↓
+MODEL LAYER
+↓
+EQUATION LAYER
+↓
+STABILIZATION ENGINE
+↓
+MASTER SYNTHESIS
+
+
 ZANISTARAST-THEORIES  
 ## Unified Scientific Framework of Dimensional Evolution, Mind Transition and Civilization Stabilization  
 
@@ -202,4 +266,15 @@ Kodu kopyala
 ZANISTARAST proposes a unified path from matter to meaning, from intelligence to morality, and from civilization to stability.
 
 ---
+SYSTEM SELF-DEFINITION
 
+Zanistarast is designed as a self-expanding scientific architecture.
+
+Each theory acts as a computational module.
+
+The system evolves through:
+
+- Entropy-driven transitions
+- Dimensional restructuring
+- Unified cognitive evolution
+- Civilization stabilization algorithms
