@@ -18,8 +18,7 @@ Bu bir sembol değil:
 katman yapısıdır,
 evrensel organizasyon düzenidir.
 2️⃣ 3 — TEMEL VARLIK ALANI
-Text
-Kodu kopyala
+
 1. Fizik
 2. Biyoloji
 3. Zihin
@@ -36,8 +35,7 @@ algı,
 zeka,
 yönelim.
 Bu üçlü:
-Text
-Kodu kopyala
+
 Yaşam alanını oluşturur.
 3️⃣ 2 — GEÇİŞ ALANI
 Sistem hiçbir zaman doğrudan sona gitmez.
