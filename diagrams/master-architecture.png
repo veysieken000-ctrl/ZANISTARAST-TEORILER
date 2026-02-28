@@ -1,0 +1,13 @@
+Bütün teorinin mimari diyagramı.
+Yapı:
+Kodu kopyala
+
+ZANISTARAST CORE
+                     │
+      ┌──────────────┼──────────────┐
+      │ │ │
+  AXIOMS THEORY BLOCKS MODELS
+      │ │ │
+      └──────────────┼──────────────┘
+                     │
+              CIVILIZATION ENGINE
