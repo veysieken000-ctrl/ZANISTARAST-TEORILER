@@ -1,0 +1,19 @@
+Amaç:
+Tüm sistemin genel haritası.
+Diyagram yapısı:
+
+DIMENSION
+    ↓
+GEOLOGY
+    ↓
+BIOLOGY
+    ↓
+MIND
+    ↓
+ETHICS
+    ↓
+CIVILIZATION
+    ↓
+TIME
+    ↓
+UNIFIED FIELD
