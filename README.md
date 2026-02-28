@@ -1,196 +1,205 @@
-# HEBUN-VE-ZANABUN
-Hebûn and Zanabûn: A holistic framework on existence and knowledge based on the 6+ONE (6+TEK) order. Hebûn ve Zanabûn: Varlık (oluş) ve bilme (şahitlik) üzerine, 6+TEK nizamına dayalı bütüncül ontoloji, bilim ve toplum yaklaşımı.
-# Hebûn ve Zanabûn
-
-Bu depo, **Hebûn (Varlık)** ve **Zanabûn (Bilme / Şahitlik)** kavramları etrafında geliştirilen
-bütüncül bir ontoloji, bilgi ve ahlak yaklaşımını içerir.
-
-## Amaç
-- Varlığı parçalamadan anlamak
-- Bilgiyi güç aracı değil, şahitlik olarak ele almak
-- Ahlakı merkeze alan bir okuma ve düşünme disiplini geliştirmek
-
-## İçerik
-- Hebûn: Varlık, boyutlar, oluş ve nizam
-- Zanabûn: Bilgi, idrak, akıl ve şahitlik
-- Metinler kitap düzeninde ve açık kaynak olarak paylaşılır
-
-## Not
-Bu çalışma bir ideoloji, siyasi program veya dogma değildir.
-Okuma, düşünme ve ahlaki farkındalık çağrısıdır.
-## Varlık Nedir?
-
-Varlık, yalnızca “olan şey” değildir.  
-Varlık, **olma hâli**, **süreklilik** ve **nizam** demektir.
-
-Bir şeyin var olması için:
-- görünür olması şart değildir,
-- ölçülmesi şart değildir,
-- fakat **bir düzen içinde yer alması** zorunludur.
-
-Tesadüf, varlık üretmez.  
-Rastlantı, ancak var olan bir düzenin içinde sapma olarak tanımlanabilir.
-
-Bu nedenle Hebûn yaklaşımı, varlığı şu ilkeyle ele alır:
-
-> **Varlık, kendini koruma ve varlık sahasını genişletme eğilimindedir.**
-
-Bu ilke;
-- atom için geçerlidir,
-- hücre için geçerlidir,
-- canlılar için geçerlidir,
-- insan ve toplum için de geçerlidir.
+ZANISTARAST-THEORIES  
+## Unified Scientific Framework of Dimensional Evolution, Mind Transition and Civilization Stabilization  
 
 ---
 
-## Varlık Sistemi ve Boyutlar
+## 🌍 LANGUAGE / ZIMAN / DİL
 
-Varlık tek katmanlı değildir.  
-Birbirini kuşatan ve birbirinin içinde genişleyen **boyutlardan** oluşur.
-
-Hebûn, varlığı **6 boyut** üzerinden okur.  
-Bu 6 boyut, birbirinden kopuk değil; **merkez–çevre ilişkisiyle** bağlıdır.
-
-### 1. Boyut – Fizik (Güç)
-
-Fizik boyut, varlığın en temel görünümüdür.
-
-Bu boyutta:
-- proton,
-- nötron,
-- elektron
-
-bir araya gelerek atomu oluşturur.
-
-Atom, kendi başına bir “şey” değildir;
-çekim etkisiyle (4. kuvvet) **başka atomlarla ilişkiye girdiğinde**
-fiziksel evre genişler.
-
-Hidrojen ve helyum bu evrenin ilk düzenli örnekleridir.
-Yıldızlar, bu ilişkinin merkez–çevre yapısına dönüşmüş hâlidir.
+- 🇬🇧 English  
+- 🇹🇷 Türkçe  
+- 🟢 Kurmancî  
 
 ---
 
-### 2. Boyut – Biyoloji (Bilgi)
+# 🇬🇧 ENGLISH
 
-Biyoloji, fiziğin **bilgiyle düzenlenmiş hâlidir**.
+## 📘 Project Overview
 
-Bu boyutta:
-- DNA,
-- RNA,
-- protein
+**ZANISTARAST-THEORIES** is a multi-layer scientific framework proposing a unified model that connects:
 
-birlikte çalışır.
+- Dimensional emergence  
+- Geological evolution  
+- Biological phase expansion  
+- Mind dimension formation  
+- Collapse and reset mechanisms  
+- Moral dimension (human stage)  
+- Civilization stabilization systems  
+- Unified field synthesis  
+- Time theory and entropy transitions  
 
-Biyoloji, fiziği kontrol eder.
-Yani **bilgi, gücü yönlendirir**.
+The project aims to construct a **coherent ontological and scientific structure** where physical, biological, cognitive and ethical dimensions evolve through structured phase transitions.
 
-Bu nedenle Hebûn’da bilgi:
-- nötr değildir,
-- başıboş değildir,
-- mutlaka bir düzen üretir.
-
----
-
-### 3. Boyut – Zihin (İşlem)
-
-Zihin, bilginin işlenme boyutudur.
-
-Bu boyutta:
-- sinir sistemi,
-- duyular,
-- bellek
-
-birlikte çalışır.
-
-Zihin, biyolojiyi koordine eder.
-Algı olmadan düzen olmaz.
-
-Ancak zihin **kanunsuz kalırsa**, karmaşa üretir.
+This repository is organized as an interconnected theoretical system rather than isolated papers.
 
 ---
 
-### 4. Boyut – Kanun / Fıtrat
-
-Bu boyut, ilk üç boyutu **kuşatan** boyuttur.
-
-Fizik, biyoloji ve zihin;
-kanun olmadan birlikte var olamaz.
-
-Kanun:
-- kendiliğinden oluşmaz,
-- iradesiz değildir,
-- bilgisiz değildir.
-
-Bu nedenle bu boyut,
-doğanın iç yasası değil,
-**varlığın koordinasyon ilkesidir**.
+## 🧭 Core Structure
+01 — Dimensional Opening Theory 02 — Geological Evolution 03 — Biological Phase Theory 04 — Mind Dimension Theory 05 — Collapse & Reset Theory 06 — Moral Dimension (Human Theory) 07 — Newroza Kawa Civilization Theory 08 — Master Map (Global Integration) 09 — Meta Equation (Unified Logic) 10 — Unified Field Theory 11 — Civilization Equations 12 — Master Model 13 — Time Theory AX — Zanistarast Axiom System
+Kodu kopyala
 
 ---
 
-### 5. Boyut – İnsan / Ahlak
+## 🧠 Main Scientific Idea
 
-İnsan, irade sahibidir.
-Bu onu diğer varlıklardan ayırır.
+Reality evolves through layered thresholds:
+Physics → Biology → Mind → Morality → Civilization → Unified Field
+Kodu kopyala
 
-İnsan:
-- doğaya uyabilir,
-- doğaya aykırı davranabilir.
+Each layer:
 
-Bu yüzden ahlak,
-insanın **hükme götüren fiilidir**.
-
-Ahlak kapanırsa:
-- zihin dağılır,
-- biyoloji çözülür,
-- fizik hızla entropiye girer.
-
-Bu, Hebûn’da **kıyamet ilkesi** olarak tanımlanır.
+- emerges after saturation of the previous layer  
+- creates instability (collapse/reset)  
+- generates a higher-order structure  
 
 ---
 
-### 6. Boyut – Hüküm
+## 📊 Conceptual Principle
+Intelligence → Reason → Morality
+Kodu kopyala
 
-Hüküm, sonucun boyutudur.
-
-İnsan, 5. boyutta yaşar;
-6. boyutta **hesap verir**.
-
-Bu hüküm:
-- bireyseldir,
-- toplumsaldır,
-- varlıksaldır.
-
-Ahlak, hükme varır.
-Hüküm, ahlakı görünür kılar.
+Mind evolution is treated as a dimensional transition rather than only biological evolution.
 
 ---
 
-## Ehad (TEK) İlkesi
+## 🔬 Scientific Position
 
-Altı boyut, kendi başına mutlak değildir.
+This repository is presented as:
 
-Hepsini kuşatan, bölen ve anlamlandıran **TEK** vardır.
+- A theoretical framework
+- A conceptual synthesis model
+- A research foundation for future mathematical and philosophical development
 
-Bu nedenle formül:
-- **6 + 1 değildir**
-- **6 + TEK’tir**
-
-TEK, sayısal bir ek değil;
-bütünlüğün kendisidir.
+It is NOT presented as final empirical science, but as a structured theoretical proposal.
 
 ---
 
-## Hebûn’un Teklif Ettiği Okuma
+## 📈 Future Development
 
-Bu metin şunu iddia etmez:
-- “Ben doğruyum”
+- Mathematical formalization
+- Diagrammatic modeling
+- Comparative ontology studies
+- Cognitive system simulations
+- Civilization stability models
 
-Şunu teklif eder:
-- **Doğayı oku**
-- **Varlığı bölme**
-- **Bilgiyi ahlaktan ayırma**
-- **Hüküm vermeden önce anla**
+---
 
-Hebûn, bir ideoloji değil;
-**bir okuma biçimidir**.
+## ⚖️ License
+
+Open conceptual framework for research and discussion.
+
+---
+
+# 🇹🇷 TÜRKÇE
+
+## 📘 Proje Özeti
+
+**ZANISTARAST-TEORİLER**, varlığın boyutsal gelişimini açıklamaya çalışan bütünleşik bir bilimsel çerçevedir. Sistem şu aşamaları tek modelde birleştirir:
+
+- Boyutsal açılım  
+- Jeolojik evrim  
+- Biyolojik faz  
+- Zihin boyutu  
+- Daralma / sıfırlanma mekanizmaları  
+- Ahlak boyutu (insan evresi)  
+- Medeniyet stabilizasyonu  
+- Birleşik alan sentezi  
+- Zaman teorisi ve entropi geçişleri  
+
+Bu repo bağımsız teorilerden değil, **tek bir zincir sisteminden** oluşur.
+
+---
+
+## 🧭 Ana Yapı
+01 — Boyutsal Açılım Teorisi 02 — Jeolojik Evrim 03 — Biyolojik Faz Teorisi 04 — Zihin Boyutu Teorisi 05 — Çöküş / Reset Teorisi 06 — Ahlaki Boyut İnsan Teorisi 07 — Newroza Kawa Uygarlık Teorisi 08 — Master Harita 09 — Meta Denklem 10 — Birleşik Alan Teorisi 11 — Uygarlık Denklemleri 12 — Ana Model 13 — Zaman Teorisi AX — Aksiyom Sistemi
+Kodu kopyala
+
+---
+
+## 🧠 Temel Yaklaşım
+
+Gerçeklik katmanlar halinde gelişir:
+Fizik → Biyoloji → Zihin → Ahlak → Uygarlık → Birleşik Alan
+Kodu kopyala
+
+Her aşama:
+
+- önceki boyutun doygunluğundan doğar  
+- kriz (daralma) üretir  
+- yeni üst boyuta geçiş açar  
+
+---
+
+## 🔬 Bilimsel Konum
+
+Bu çalışma:
+
+- kavramsal bir bilim modeli  
+- ontolojik sentez  
+- teorik araştırma altyapısıdır.
+
+Deneysel bilim iddiası değil; sistematik model önerisidir.
+
+---
+
+# 🟢 KURMANCÎ
+
+## 📘 Kurtasiya Projeyê
+
+**ZANISTARAST-TEORÎ** çarçoveyek zanistî ye ku hewl dide pêşketina hebûnê di astên cûda de yekbike:
+
+- Vekirina boyutan  
+- Pêşketina jeolojîk  
+- Fazê biyolojîk  
+- Boyuta zihinê  
+- Mekanîzmayên darîn û reset  
+- Boyuta exlaqî (mirov)  
+- Stabilîzasyona medeniyetê  
+- Teoriya qada yekgirtî  
+- Teoriya demê  
+
+Ev repo teoriyên cuda nîne; ew **sîstemek yekgirtî** ye.
+
+---
+
+## 🧭 Avahiya Bingehîn
+Boyut → Erd → Jiyan → Zihin → Exlaq → Medeniyet → Qada Yekgirtî
+Kodu kopyala
+
+Her ast:
+
+- ji astê berê derdikeve  
+- demeke krizê çêdike  
+- deriyê asta bilindtir vedike.
+
+---
+
+## 🧠 Prensîba Sereke
+Zekâ → Aql → Exlaq
+Kodu kopyala
+
+Pêşketina zihinê wek guherîna boyutî tê şîrove kirin.
+
+---
+
+## 🔬 Armanca Zanistî
+
+Ev projeyek:
+
+- modela fikrî  
+- çarçoveya teorîk  
+- bingehê lêkolînê ya pêşerojê ye.
+
+---
+
+# 🧩 GLOBAL MODEL (SUMMARY)
+DIMENSION ↓ GEOLOGICAL ↓ BIOLOGICAL ↓ MIND ↓ COLLAPSE / RESET ↓ MORAL DIMENSION ↓ CIVILIZATION STABILIZATION ↓ UNIFIED FIELD ↓ TIME SYNTHESIS
+Kodu kopyala
+
+---
+
+## ⭐ Final Statement
+
+ZANISTARAST proposes a unified path from matter to meaning, from intelligence to morality, and from civilization to stability.
+
+---
+
