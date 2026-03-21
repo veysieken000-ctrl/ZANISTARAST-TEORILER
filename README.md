@@ -296,3 +296,14 @@ The system evolves through:
 - Dimensional restructuring
 - Unified cognitive evolution
 - Civilization stabilization algorithms
+
+## Terminology
+
+This repository uses core Zanistarast terminology:
+
+- **Hebun** — Being / Ontology
+- **Zanabun** — Knowledge / Epistemology
+- **Mabun** — Economics / Flow
+- **Rasterast** — Governance / Control
+
+For the extended glossary, see `SOZLUK.md`.
