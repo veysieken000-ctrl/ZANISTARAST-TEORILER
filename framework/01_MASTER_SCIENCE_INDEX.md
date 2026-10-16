@@ -1,3 +1,6 @@
+
+
+> **Kurucu onayıyla güncelleme (16.10.2026):** Kozmik **2. biyoloji boyutu** evreleri **1. tek hücreliler (bakteriler gibi) → 2. çok hücreliler** olarak kesinleştirilmiştir. Eşeysiz ve eşeyli üreme **evre adları değildir**; farklı üreme biçimleridir ve tek/çok hücreli ayrımıyla özdeşleştirilemez. Bu dosyada kalan eşeysiz/eşeyli temelli aşama, evre ve zorunlu geçiş ifadeleri **eski/yerine geçilmiş hipotez** statüsündedir; kurucu kozmik boyut sınıflandırmasını temsil etmez. Zihin boyutu 1. zekâ → 2. akıl; ahlak boyutu 1. fıtrî ahlak → 2. iradeli ahlak; ahiret boyutu 1. hesap/hüküm → 2. hükmün sonucu olarak tanımlanır. Ayrıntılar: `docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md`.
 Master Science Index
 Zanistarast Bilimi — Bilimsel Navigasyon Haritası
 Bu belge, Zanistarast bilim sistemindeki tüm teorilerin tek bir bilimsel indeks içinde nasıl konumlandığını gösterir.
