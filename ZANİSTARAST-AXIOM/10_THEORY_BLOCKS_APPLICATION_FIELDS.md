@@ -1,3 +1,5 @@
+> **Güncel kurucu evre ayrımı (16.10.2026):** Biyoloji 1. evre **tek hücreliler**, 2. evre **çok hücreliler**. Eşeysiz/eşeyli üreme bu evrelerin adları değildir. Eski üreme odaklı “ilk faz” anlatımları tarihsel hipotez olarak okunmalıdır. Diğer kozmik evreler: fizik atom→yıldızlar/gezegenler; zihin zekâ→akıl; ruh ruh→melekler; ahlak fıtrî ahlak→iradeli ahlak; ahiret hesap/hüküm→hükmün sonucu. Ayrıntı: `docs/KURUCU_KANONIK_EHAD_TEK_YEK_2026-10-16.md`.
+
  Uygulama Alanları
 1. Tanım
 Theory Blocks (Teori Blokları), Zanistarast biliminin kurduğu ana teorilerin hangi varlık alanında çalıştığını gösteren uygulama katmanlarıdır.
